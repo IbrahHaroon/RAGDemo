@@ -20,5 +20,5 @@ A minimal Retrieval-Augmented Generation (RAG) chatbot using **Ollama**, **NumPy
 
 ## How to Run
 ```bash
-pip install numpy
+pip install -r requirements.txt
 python main.py
